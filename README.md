@@ -46,3 +46,16 @@ The project uses JSON for saving and loading users, projects and tasks to ensure
 ├── README.md                           # Project documentation
 └── requirements.txt                    # Project dependencies
 ```
+markdown
+<br />
+<br />
+
+<div align="center">
+    <p>This Project is part of the Moringa school syllabus</p>
+    <p>Eugene Gaitano - dev.gaitano@gmail.com </p>
+    <p>Nungari Muchiru - janenngr@gmail.com </p>
+    <P>Larry Thuku - larrythuku18@gmail.com </p>
+    <p>James Kusimba - kusimbajames92@gmail.com </p>
+    <p>Cynthia Njuguna - njugunacynthia32@gmail.com </p>
+    <a href="#readme-top">back to top</a>
+    </div>
